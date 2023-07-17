@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="Stylesheet" href="newport.css">
+</head>
+<body bgcolor="black">
+<div class="hero" style="background-color: rgb(4, 5, 5); color: aliceblue;">
+    <nav class="navbar">
+        <div class="left"><h1>Portfo<span style="color: crimson;">lio</span></h1></div>
+        <ul class="right">
+            <li  style="color: white;"><a href="#">Home</a></li>
+            <li  style="color: white;"><a href="#">About us</a></li>
+            <li  style="color: white;"><a href="#">Services</a></li>
+            <li  style="color: white;"><a href="#">Skills</a></li>
+            <li  style="color: white;"><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+</div>
+<div class="self" style="background-color:#380705;">
+    <img src="aditiiiiii.jpeg" alt="" style="height: 25rem; width: 15rem;">
+    <div class="solo"><h3 style="left: -50px; color: rgb(246, 243, 240); padding-top: 40px;margin-left: -120px;font-size: 25px;">Hello ,My Name is</h3>
+       <br><br><h1 style="color: aliceblue;  margin-left: 40px;font-size: 45px;" > Aditi <span style="color:crimson;">Sarkar</span></h1>
+       <br><br> <h2>I am a Frontend Developer</h2>
+      </div>
+      </div>
+      
+      <hr>
+      <section class="second" style="margin-bottom: 8px;">
+         <img src="IMG-20221229-WA0352.jpg" alt="">
+     </section>
+     <div class="About">
+        <h1 style="color: rgb(236, 209, 122);background-color: black; border:2px solid black center;font-size: 35px; text-align: center;margin-top: 2%;"><b>About Me</b></h1><br><br>
+        <h3 style="color: bisque;text-align: center; font-size: 30px;">An enthusiastic fresher who is capable to use technical 
+            skills for the betterment of the organization. Eager to learn new technologies and methodologies. 
+            Always willing to innovate the new things which can improve the existing technology. 
+            Possess good communication skills and have an eye for detail.</h3></div>
+            <div class="edu"><br><br>
+                <h1 style="color: darksalmon;"><u>Education Qualification</u></h1>
+            </div>
+            <div class="table" style="color: white;">
+                <style>
+                      table,th,td,tr{
+           border: 2px solid white ;
+           border-collapse: collapse;
+           padding: 24px;
+           font-size: 25px;
+           margin-bottom: 2%;
+        }
+
+        </style>
+          <table style="border: 2px solid white; padding-left: 6%;">
+                <tr>
+                    <td style="background-color: #500a07;">Course</td>
+                    <td style="background-color: #500a07;">Institution</td>
+                    <td style="background-color: #500a07;">Percentage</td>
+                </tr>
+                <tr>
+                    <td>BCA</td>
+                    <td>Institute of Engineering & Management</td>
+                    <td>9.16 SGPA</td>
+                </tr>
+                <tr>
+                    <td>Higher-Secondary</td>
+                    <td>Amtala Nibedita balika Vidyalaya</td>
+                    <td>85.43%</td>
+                </tr>
+                <tr>
+                    <td>Secondary</td>
+                    <td>Amtala Nibedita balika Vidyalaya</td>
+                    <td>84%</td>
+                </tr>
+            </table></div>
+            <br><br>
+            <hr><br>
+            <div class="skill">
+                <h1 style="color: darksalmon; font-size: 36px;"><u>Skills</u></h1>
+                <img src="html-5_318-674282.avif" alt="">
+                <img src="css22.jpg" alt="">
+                <img src="c-language-icon-in-outline-style-vector-33887266.jpg" alt="">
+                <img src="java_original_wordmark_logo_icon_146459.png" alt=""><br><br><br><br>
+                <div class="lkha" style="color: beige;">
+                    <p style="font-style: oblique; text-align: center; font-size: 30px;">In the journey
+                         languages  I am aware of the basics of C language & the concepts of Object Oriented 
+                         Programming Language like JAVA language.Apart from Java,C I am aware of HTML & 
+                         CSS also for Webpage Designing. HTML and CSS are essential for those interested in 
+                         working on technical projects or getting a job in web development, application design
+                          and software development.</p>
+                </div>
+
+            </div>
+ 
+<br><br><br><br><br><hr><br><br>
+
+<section class="last" style="color: azure;">
+ <h1 style="color: aliceblue; font-size: 35px; border: 2px solid red;text-align: center;">Contact Me</h1><br><br>
+ <div class="contct">
+    <img src="photo-1596524430615-b46475ddff6e.avif" alt="">
+
+ </div><br><br><br>
+ <div class="nam" style="color: aliceblue;">
+    <h2 style="color: blanchedalmond; font-size: 30px;">ADITI SARKAR</h2>
+</div>
+<div class="end" style="color: aliceblue;">
+    <h4 style="color: whitesmoke;">I am available for Freelance work. Connect with me via this section</h4>
+     <h4 style="color: aliceblue;">Phone No: 9330248894</h4><h4 style="color:crimson;">Email: aditisarkar136@gmail.com</h4>
+</div><br><br>
+ <div class="sesh">
+    <form action="">
+        <label for="fname">First Name:</label>
+        <input name="fname" type="text" id="fname" ><br /><br />
+          
+        <label for="lname">Last Name:</label>
+        <input name="lname" type="text" id="lname" ><br /><br />
+    
+        <input type="radio" id="male" name="gender">
+        <label for="male">Male</label>
+    
+        <input type="radio" id="female" name="gender">
+        <label for="female">Female</label>
+    
+        <input type="radio" id="oth" name="gender">
+        <label for="oth">Others</label>
+        <input type="submit" value="submit"><br /><br />
+    
+        
+    
+        <label for="phno">Phone Number:</label>
+        <input name="phno" type="number" id="phno"  
+          > <br /><br />
+    
+          <label for="clg">College Name:</label>
+        <input name="clg" type="text" id="clg" ><br /><br />
+    
+        <label for="strm">Stream:</label>
+        <input name="strm" type="text" id="strm" ><br /><br />
+    
+        <label for="yr">  Year:</label>
+        <select name="yr" id="yr" >
+        <option value="1st">1st</option>
+        <option value="2nd">2nd</option>
+        <option value="3rd">3rd</option>
+        </select>
+     <br /><br />
+    <button type="submit" style="color: aliceblue; background-color: #500a07;font-size: 25px;">SUBMIT</button>
+        <br /><br />
+    </form>
+    
+    </form>
+</div>
+
+</section>
+
+        
+        
+  
+
+    
+</body>
+</html>
